@@ -1,0 +1,15 @@
+C:\DevDotNET\AulasStrings\bin\Debug\net6.0\AulasStrings.exe
+C:\DevDotNET\AulasStrings\bin\Debug\net6.0\AulasStrings.deps.json
+C:\DevDotNET\AulasStrings\bin\Debug\net6.0\AulasStrings.runtimeconfig.json
+C:\DevDotNET\AulasStrings\bin\Debug\net6.0\AulasStrings.dll
+C:\DevDotNET\AulasStrings\bin\Debug\net6.0\AulasStrings.pdb
+C:\DevDotNET\AulasStrings\obj\Debug\net6.0\AulasStrings.csproj.AssemblyReference.cache
+C:\DevDotNET\AulasStrings\obj\Debug\net6.0\AulasStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevDotNET\AulasStrings\obj\Debug\net6.0\AulasStrings.AssemblyInfoInputs.cache
+C:\DevDotNET\AulasStrings\obj\Debug\net6.0\AulasStrings.AssemblyInfo.cs
+C:\DevDotNET\AulasStrings\obj\Debug\net6.0\AulasStrings.csproj.CoreCompileInputs.cache
+C:\DevDotNET\AulasStrings\obj\Debug\net6.0\AulasStrings.dll
+C:\DevDotNET\AulasStrings\obj\Debug\net6.0\refint\AulasStrings.dll
+C:\DevDotNET\AulasStrings\obj\Debug\net6.0\AulasStrings.pdb
+C:\DevDotNET\AulasStrings\obj\Debug\net6.0\AulasStrings.genruntimeconfig.cache
+C:\DevDotNET\AulasStrings\obj\Debug\net6.0\ref\AulasStrings.dll
